@@ -1,4 +1,4 @@
-# Aravind & Larsen — Architecture Studio Website (Prototype)
+# Architecture Studio Website (Prototype)
 
 Premium architecture studio website prototype, built for client approval.
 All content, images, and copy are placeholders. No CRUD, authentication, or
